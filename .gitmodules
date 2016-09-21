@@ -1,0 +1,18 @@
+[submodule "mm"]
+	path = mm
+	url = https://github.com/miketestgit01/mm.git
+[submodule "MasterServant"]
+	path = MasterServant
+	url = https://github.com/miketestgit01/MasterServant.git
+[submodule "JAVAthreads"]
+	path = JAVAthreads
+	url = https://github.com/miketestgit01/JAVAthreads.git
+[submodule "pthreads"]
+	path = pthreads
+	url = https://github.com/miketestgit01/pthreads.git
+[submodule "add_sub"]
+	path = add_sub
+	url = https://github.com/miketestgit01/add_sub.git
+[submodule "TIME"]
+	path = TIME
+	url = https://github.com/miketestgit01/TIME.git
