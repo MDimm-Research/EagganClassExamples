@@ -1,6 +1,8 @@
 README's are not an advantage of submodules
 disadvantage... there is not a path to move directory backwords. that would have to be set up. but it could be manages with using the go back one page action in the browser. this issue will not be a problem in local directories only on github.
-only three advantages exist
+
+
+at present, only three advantages exist
 
 
 (1) retain ownership and credit to the author whom you used the program from. 
