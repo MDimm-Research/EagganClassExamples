@@ -9,3 +9,5 @@ git add --all
 git commit -m "added subm"
 git push -u origin master
 
+
+all changes can be found by setting the branch to master. So that though problematic is not an incredibly huge issue at moment.
