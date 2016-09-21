@@ -1,3 +1,13 @@
+##DELIVERABLES Parl_Comp assignment 1
+1 talk Uranus
+
+1 talk beowulf
+
+2 pass message - point to point.
+
+3 pass coded message.
+
+
 ##ABOUT THIS DIRECTORY
 
 
