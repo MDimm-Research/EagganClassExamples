@@ -11,3 +11,40 @@ git push -u origin master
 
 
 all changes can be found by setting the branch to master. So that though problematic is not an incredibly huge issue at moment.
+
+##future deliverables
+
+taking forever to ...
+git remote add origin each repository
+
+deliverable 1a 
+```for d in ./*/ ; do (cd "$d" && git remote add origin https://github.com/miketestgit01/$d.git); done```
+need to solve the above dir issue ... then this portion will become scalable.
+
+deliverable 1b
+need to look into the github api for a create repository issue.
+
+deliverable 2
+
+
+deliverable last.
+updating requres a branch merge. or a fetch git add -all and git push -u origin master. 
+
+
+
+the below commands work fine.
+
+```
+ for d in ./*/ ; do (cd "$d" && git init); done
+
+for d in ./*/ ; do (cd "$d" && git add --all); done
+
+
+for d in ./*/ ; do (cd "$d" && git commit -m "added new repository"); done
+
+
+
+for d in ./*/ ; do (cd "$d" && git push -u origin master); done
+
+
+```
