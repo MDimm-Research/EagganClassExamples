@@ -48,3 +48,6 @@ for d in ./*/ ; do (cd "$d" && git push -u origin master); done
 
 
 ```
+he does not know it yet, but I want to auto submodule as a gift my buddies whole github repository. Specigfically his repo's Programming Books, Project Euler, and Random Programs. That way people can star the individual programs he has worked on in those genre's instead of starring the overall folder. 
+or they could star the individual program and the overall folder!
+ArnoldM904
