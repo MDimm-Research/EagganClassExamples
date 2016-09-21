@@ -1,3 +1,7 @@
+forks need pull requests.
+submodules need branch merges.
+
+
 http://stackoverflow.com/questions/12514197/convert-a-git-folder-to-a-submodule-retrospectively
 
 open issues:
