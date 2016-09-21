@@ -3,7 +3,9 @@ only three advantages exist
 
 
 (1) retain ownership and credit to the author whom you used the program from. 
+
 (2) you can star at a more granular level the things you like.
+
 (3) branches are present that allow you to keep up with others contributions to the master but still keep your local branch.
 
 
